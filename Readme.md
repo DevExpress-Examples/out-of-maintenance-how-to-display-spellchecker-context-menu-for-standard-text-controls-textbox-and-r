@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SpellCheckerMenuExample/Form1.cs) (VB: [Form1.vb](./VB/SpellCheckerMenuExample/Form1.vb))
+<!-- default file list end -->
 # How to display SpellChecker context menu for standard text controls (TextBox and RichTextBox)
 
 
